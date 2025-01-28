@@ -22,7 +22,7 @@
 ## 🌐 Live Demo
 
 Explore the live demonstration of the project:
-[reactjs18-3d-portfolio](https://reactjs18-3-d-portfolio.vercel.app/)
+[reactjs18-3d-portfolio](kolletisaikrishna.vercel.app)
 
 ## 📝 Description
 
