@@ -247,14 +247,14 @@ const projects: TProject[] = [
         name: "Video Sharing",
         color: "green-text-gradient",
       },
-      {
-        name: "Socket.IO",
-        color: "pink-text-gradient",
-      },
-      {
-        name: "WebRTC",
-        color: "purple-text-gradient",
-      },
+    //  {
+      //  name: "Socket.IO",
+        //color: "pink-text-gradient",
+      //},//
+      //{
+        //name: "WebRTC",
+        //color: "purple-text-gradient",
+      //},
     ],
     image:  TubeConnect,
     sourceCodeLink: "https://github.com/sai2k23/Tube-Connect",
