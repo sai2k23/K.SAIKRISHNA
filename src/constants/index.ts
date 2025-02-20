@@ -237,7 +237,7 @@ const projects: TProject[] = [
   {
     name: "Tube-Connect",
     description:
-      "Tube-Connect is a next-gen video-sharing platform that lets users seamlessly share full videos and shorts directly with friends, just like social media. With a sleek interface and real-time sharing, it redefines how we connect through videos. 🚀 Whether it’s a viral clip or a personal moment, Tube-Connect ensures every share feels instant, interactive, and engaging. 🎥✨.",
+      "Tube-Connect is a next-gen video-sharing platform that lets users seamlessly share full videos and shorts directly with friends, just like social media. With a sleek interface and real-time sharing, it redefines how we connect through videos. Tube-Connect ensures every share feels instant, interactive, and engaging. 🎥✨.",
     tags: [
       {
         name: "MERN Stack",
