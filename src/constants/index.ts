@@ -26,6 +26,7 @@ import {
   NullClass,
   SRMS, 
   InternArea,
+  TubeConnect,
 } from "../assets";
 
 export const navLinks: TNavLink[] = [
@@ -233,27 +234,27 @@ const projects: TProject[] = [
     image: InternArea,
     sourceCodeLink: "https://github.com/sai2k23/Internarea",
   },
- // {
-  //  name: "Trip Guide",
-  //  description:
-  //    "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
-  //  tags: [
-   //   {
-   //     name: "nextjs",
-   //     color: "blue-text-gradient",
-   //   },
-   //   {
-   //     name: "supabase",
-   //     color: "green-text-gradient",
-   //   },
-   //   {
-    //    name: "css",
-   //     color: "pink-text-gradient",
-   //   },
-  //  ],
-  //  image: tripguide,
- //   sourceCodeLink: "https://github.com/",
-//  },
+  {
+    name: "Tube-Connect",
+    description:
+      "Tube-Connect is a next-gen video-sharing platform that lets users seamlessly share full videos and shorts directly with friends, just like social media. With a sleek interface and real-time sharing, it redefines how we connect through videos. 🚀.",
+    tags: [
+      {
+        name: "MERN Stack",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "Video Sharing",
+        color: "green-text-gradient",
+      },
+      {
+        name: "Socket.IO",
+        color: "pink-text-gradient",
+      },
+    ],
+    image:  TubeConnect,
+    sourceCodeLink: "https://github.com/sai2k23/Tube-Connect",
+  },
 ];
 
 export { services, technologies, experiences, projects };

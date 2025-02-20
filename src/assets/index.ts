@@ -29,6 +29,7 @@ import OasisInfoByte from "./company/Oasis InfoByte.png";
 import NullClass from "./company/NullClass.png";
 import SRMS from "./SRMS.png";
 import InternArea from "./InternArea.png";
+import TubeConnect from "./tube-connect.png"
 export {
   logo,
   backend,
@@ -58,4 +59,5 @@ export {
   NullClass,
   SRMS, 
   InternArea,
+  TubeConnect,
 };
