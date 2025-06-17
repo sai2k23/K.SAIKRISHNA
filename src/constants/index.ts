@@ -236,6 +236,8 @@ const projects: TProject[] = [
     ],
     image: InternArea,
     sourceCodeLink: "https://github.com/sai2k23/Internarea",
+    liveDemoLink: "https://internshipsarea.netlify.app",
+
   },
   {
     name: "Tube-Connect",
@@ -261,6 +263,8 @@ const projects: TProject[] = [
     ],
     image:  TubeConnect,
     sourceCodeLink: "https://github.com/sai2k23/Tube-Connect",
+    liveDemoLink: "https://tube-connnect.netlify.app",
+
   },
   {
     name: "Asthma-Severity-Prediction",
@@ -282,6 +286,8 @@ const projects: TProject[] = [
     ],
     image: AsthmaPrediction,
     sourceCodeLink: "https://github.com/sai2k23/Asthma-Prediction",
+    liveDemoLink: "https://asthmaseverityprediction.netlify.app",
+
   },
    {
     name: "NoteHarbor(Blog Platform)",
@@ -303,9 +309,11 @@ const projects: TProject[] = [
     ],
     image: BlogPlatform,
     sourceCodeLink: "https://github.com/sai2k23/Blogging-Platform",
+    liveDemoLink: "https://noteharborplatform.netlify.app",
+
   },
  {
-    name: "Excel Analytics(Visual Excel)",
+    name: "Excel Analytics",
     description:
       "The project transforms Excel data into dynamic visual insights using charts and AI-powered summaries, empowering users to analyze, filter, and interpret data effectively in real time.",
     tags: [
@@ -324,6 +332,8 @@ const projects: TProject[] = [
     ],
     image: ExcelAnalytics,
     sourceCodeLink: "https://github.com/sai2k23/Excel-Analytics",
+    liveDemoLink: "https://visualexcel.netlify.app",
+
   },
 ];
 
