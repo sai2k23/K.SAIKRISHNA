@@ -280,7 +280,7 @@ const projects: TProject[] = [
         color: "green-text-gradient",
       },
       {
-        name: "Zidio",
+        name: "VEC",
       color: "pink-text-gradient",
       },
     ],
@@ -303,7 +303,7 @@ const projects: TProject[] = [
         color: "green-text-gradient",
       },
       {
-        name: "NullClass",
+        name: "Zidio",
         color: "pink-text-gradient",
       },
     ],
@@ -313,20 +313,20 @@ const projects: TProject[] = [
 
   },
  {
-    name: "Excel Analytics",
+    name: "Excel Analytics(visual Excel)",
     description:
       "The project transforms Excel data into dynamic visual insights using charts and AI-powered summaries, empowering users to analyze, filter, and interpret data effectively in real time.",
     tags: [
       {
-        name: "JavaScript",
+        name: "OPENAI",
         color: "blue-text-gradient",
       },
       {
-        name: "PHP",
+        name: "MERN STACK",
          color: "purple-text-gradient",
       },
       {
-        name: "HTML,CSS",
+        name: "Zidio",
         color: "pink-text-gradient",
       },
     ],
