@@ -267,7 +267,7 @@ const projects: TProject[] = [
 
   },
   {
-    name: "AsthmaSeverity Prediction",
+    name: "Asthma-Severity-Prediction",
     liveDemoLink: "https://asthmaseverityprediction.netlify.app",
     description:
       "The project predicts asthma severity using machine learning models, providing valuable insights for healthcare professionals and patients.",
