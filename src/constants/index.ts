@@ -218,6 +218,7 @@ const projects: TProject[] = [
   },
   {
     name: "Intern Area",
+    liveDemoLink: "https://internshipsarea.netlify.app",
     description:
       "The Internshala Clone (Intern Area) is a MERN stack project featuring secure user authentication, internship listings, and hiring/rejection notifications via the Notification API. It includes responsive design and a premium resume creation feature stored in user profiles.",
     tags: [
@@ -236,11 +237,11 @@ const projects: TProject[] = [
     ],
     image: InternArea,
     sourceCodeLink: "https://github.com/sai2k23/Internarea",
-    liveDemoLink: "https://internshipsarea.netlify.app",
 
   },
   {
     name: "Tube-Connect",
+    liveDemoLink: "https://tube-connnect.netlify.app",
     description:
       "Tube-Connect is a next-gen video-sharing platform that lets users seamlessly share full videos and shorts directly with friends, just like social media. With a sleek interface and real-time sharing. Tube-Connect ensures every share feels instant, interactive, and engaging. 🎥✨.",
     tags: [
@@ -263,11 +264,11 @@ const projects: TProject[] = [
     ],
     image:  TubeConnect,
     sourceCodeLink: "https://github.com/sai2k23/Tube-Connect",
-    liveDemoLink: "https://tube-connnect.netlify.app",
 
   },
   {
     name: "Asthma-Severity-Prediction",
+    liveDemoLink: "https://asthmaseverityprediction.netlify.app",
     description:
       "The project predicts asthma severity using machine learning models, providing valuable insights for healthcare professionals and patients.",
     tags: [
@@ -286,11 +287,11 @@ const projects: TProject[] = [
     ],
     image: AsthmaPrediction,
     sourceCodeLink: "https://github.com/sai2k23/Asthma-Prediction",
-    liveDemoLink: "https://asthmaseverityprediction.netlify.app",
 
   },
    {
-    name: "NoteHarbor(Blog Platform)",
+    name: "NoteHarbor",
+    liveDemoLink: "https://noteharborplatform.netlify.app",
     description:
       "The project enables users to write, publish, and manage blogs with Google and email authentication, providing a personalized and secure content platform for writers and readers.",
     tags: [
@@ -309,11 +310,11 @@ const projects: TProject[] = [
     ],
     image: BlogPlatform,
     sourceCodeLink: "https://github.com/sai2k23/Blogging-Platform",
-    liveDemoLink: "https://noteharborplatform.netlify.app",
 
   },
  {
-    name: "Excel Analytics(visual Excel)",
+    name: "Excel Analytics",
+    liveDemoLink: "https://visualexcel.netlify.app",
     description:
       "The project transforms Excel data into dynamic visual insights using charts and AI-powered summaries, empowering users to analyze, filter, and interpret data effectively in real time.",
     tags: [
@@ -332,7 +333,6 @@ const projects: TProject[] = [
     ],
     image: ExcelAnalytics,
     sourceCodeLink: "https://github.com/sai2k23/Excel-Analytics",
-    liveDemoLink: "https://visualexcel.netlify.app",
 
   },
 ];
